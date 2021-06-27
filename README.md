@@ -1,2 +1,2 @@
 # Language
-Practice with Java and class. Displays info about different languages. Pretty simple
+Practice with Java and classes. Displays info about different languages. Pretty simple
